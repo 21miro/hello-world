@@ -24,8 +24,8 @@ I love working on various projects, both personal and professional. Here are a f
 
 You can find me on:
 
-- [LinkedIn]([link to your LinkedIn profile](https://www.linkedin.com/in/tuanamirul/))
-- [Flikr]([link to your Flikr profile](https://www.flickr.com/photos/tuanamirul/albums))
+- [LinkedIn]([My LinkedIn profile](https://www.linkedin.com/in/tuanamirul/))
+- [Flikr]([Myr Flikr profile](https://www.flickr.com/photos/tuanamirul/albums))
 - [Personal Website/Blog](link to your personal website or blog)
 
 Feel free to reach out if you have any questions, suggestions, or just want to say hi!
