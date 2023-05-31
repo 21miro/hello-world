@@ -26,7 +26,7 @@ You can find me on:
 
 - [LinkedIn]([My LinkedIn profile](https://www.linkedin.com/in/tuanamirul/))
 - [Flikr]([Myr Flikr profile](https://www.flickr.com/photos/tuanamirul/albums))
-- [Personal Website/Blog](link to your personal website or blog)
+- [Personal Website/Blog](My personal website or blog) Hosting in progress
 
 Feel free to reach out if you have any questions, suggestions, or just want to say hi!
 
